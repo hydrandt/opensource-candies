@@ -115,7 +115,9 @@ Formerly started at [<img src="https://i.postimg.cc/3RKD0YjT/ycombinator-favicon
 
 [<img src="https://www.codacy.com/favicon.ico" alt="Codacy" height="16" /> Codacy](https://www.codacy.com/) - Automated Code Review for Scala, JavaScript, PHP, Python and CSS - free for open source
 
-[<img src="https://codeclimate.com/favicon.ico" height="16" alt="CodeClimate" /> CodeClimate](https://codeclimate.com/) - Code Review for Ruby, JavaScript, PHP - free for open source
+[<img src="https://codeclimate.com/favicon.ico" height="16" alt="CodeClimate" /> CodeClimate](https://codeclimate.com/) - Code Review for Ruby, JavaScript, PHP - free for open source\
+
+[<img src="https://framerusercontent.com/images/7I9qFFRKXlWQcQ8HNJVnHTAlNxA.png" alt="CodeRabbit" height="16" /> CodeRabbit](https://coderabbit.ai/) - Automated AI code review - free for open source
 
 [<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F19589930%3Fs%3D400%26v%3D4&f=1&nofb=1" height="16" alt="LGTM" /> LGTM](https://lgtm.com/) - Continuous security analysis and automated code review - free for open source
 
